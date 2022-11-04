@@ -3,29 +3,29 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/homeInFoFragment2">
+    app:startDestination="@id/homeInFoFragment">
     <fragment
-        android:id="@+id/homeInFoFragment2"
+        android:id="@+id/homeInFoFragment"
         android:name="com.snowhitejsk.tppetme.HomeInFoFragment"
         android:label="fragment_homeinfo"
         tools:layout="@layout/fragment_homeinfo" />
     <fragment
-        android:id="@+id/timerFragment2"
+        android:id="@+id/timerFragment"
         android:name="com.snowhitejsk.tppetme.TimerFragment"
         android:label="fragment_timer"
         tools:layout="@layout/fragment_timer" />
     <fragment
-        android:id="@+id/facilitiesFragment2"
+        android:id="@+id/facilitiesFragment"
         android:name="com.snowhitejsk.tppetme.FacilitiesFragment"
         android:label="fragment_facilities"
         tools:layout="@layout/fragment_facilities" />
     <fragment
-        android:id="@+id/missingAndAbondenPetFragment2"
+        android:id="@+id/missingAndAbondenPetFragment"
         android:name="com.snowhitejsk.tppetme.MissingAndAbondenPetFragment"
         android:label="fragment_missingandabondenpet"
         tools:layout="@layout/fragment_missingandabondenpet" />
     <fragment
-        android:id="@+id/communityFragment2"
+        android:id="@+id/communityFragment"
         android:name="com.snowhitejsk.tppetme.CommunityFragment"
         android:label="fragment_community"
         tools:layout="@layout/fragment_community" />
