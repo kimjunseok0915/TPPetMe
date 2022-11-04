@@ -7,6 +7,10 @@
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_outline_groups_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_outline_local_cafe_24.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_iv_black.xml" value="0.108" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_tv_blue.xml" value="0.108" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_tv_blue.xml.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.108" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
@@ -15,9 +19,9 @@
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_Facilities.xml" value="0.13425925925925927" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_Timer.xml" value="0.13425925925925927" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_community.xml" value="0.33" />
-        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_facilities.xml" value="0.14166666666666666" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_facilities.xml" value="0.21629213483146068" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_homeinfo.xml" value="0.33" />
-        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_missingandabondenpet.xml" value="0.14166666666666666" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_missingandabondenpet.xml" value="0.33" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_missingandaondenpet.xml" value="0.13425925925925927" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_timer.xml" value="0.13425925925925927" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/menu/bnv.xml" value="0.33" />

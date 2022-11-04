@@ -1,18 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".CommunityFragment">
+    android:layout_height="match_parent">
 
-    <TextView
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="C"/>
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <ImageView
+            android:id="@+id/iv_cafe"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:src="@drawable/travel"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="여행 "
+            android:textSize="40dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentRight="true"
+            android:textStyle="italic"
+            android:layout_centerVertical="true"/>
 
 
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
 
-</FrameLayout>
+        <ImageView
+            android:id="@+id/iv_hospital"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/hospital" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="건강 "
+            android:textSize="40dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentRight="true"
+            android:textStyle="italic"
+            android:layout_centerVertical="true"/>
 
 
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
 
+        <ImageView
+            android:id="@+id/iv_park"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:src="@drawable/park"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="엑티비티 "
+            android:textSize="40dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentRight="true"
+            android:textStyle="italic"
+            android:layout_centerVertical="true"/>
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <ImageView
+            android:id="@+id/iv_travel"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/cafe" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="스토리 "
+            android:textSize="40dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentRight="true"
+            android:textStyle="italic"
+            android:layout_centerVertical="true"/>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>
