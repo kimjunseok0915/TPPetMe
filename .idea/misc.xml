@@ -15,7 +15,9 @@
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/menu_selector.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_abondonpets.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/alertdialog_abondonment.xml" value="0.17962962962962964" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_Facilities.xml" value="0.13425925925925927" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_Timer.xml" value="0.13425925925925927" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_community.xml" value="0.33" />
@@ -23,7 +25,9 @@
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_homeinfo.xml" value="0.33" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_missingandabondenpet.xml" value="0.33" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_missingandaondenpet.xml" value="0.13425925925925927" />
-        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_timer.xml" value="0.13425925925925927" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_timer.xml" value="0.22" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/recycler_Abondon_item.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/recycler_abondon_item.xml" value="0.5" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/menu/bnv.xml" value="0.33" />
       </map>
     </option>
