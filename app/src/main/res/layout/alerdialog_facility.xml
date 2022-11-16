@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="2">
+
+    <Button
+        android:id="@+id/btn_website"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/brandColorLight"
+        android:text="사이트로 이동하기"
+        android:textStyle="bold"
+        android:padding="16dp"
+        android:layout_margin="20dp"/>
+    <Button
+        android:id="@+id/btn_KakaoMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/brandColorLight"
+        android:text="지도로 이동하기"
+        android:textStyle="bold"
+        android:layout_toRightOf="@id/btn_website"
+        android:padding="16dp"
+        android:layout_margin="20dp"
+
+        />
+
+
+</RelativeLayout>

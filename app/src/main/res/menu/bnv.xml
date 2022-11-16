@@ -17,8 +17,8 @@
 
     <item
         android:id="@+id/missingAndAbondenPetFragment"
-        android:icon="@drawable/ic_outline_groups_24"
-        android:title="파싱"/>
+        android:icon="@drawable/ic_baseline_360_24"
+        android:title="유기/실종"/>
 
     <item
         android:id="@+id/communityFragment"

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="4dp"
+    app:cardCornerRadius="8dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="4dp"
+    android:layout_marginTop="4dp"
+    android:backgroundTint="@color/black">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp">
+
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="갈비집"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:padding="8dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_title"
+            android:paddingLeft="8dp"
+            android:paddingTop="2dp"
+            android:text="애견카페"
+            android:textColor="@color/teal_700"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/tv_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_category"
+            android:paddingLeft="8dp"
+            android:paddingTop="2dp"
+            android:text="서울시 성북구 성관동 "
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_address"
+            android:autoLink="web"
+            android:linksClickable="true"
+            android:padding="8dp"
+            android:text="www.google.com"
+            android:textStyle="bold"
+            android:textColor="@color/teal_700" />
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_map_24"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:padding="16dp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

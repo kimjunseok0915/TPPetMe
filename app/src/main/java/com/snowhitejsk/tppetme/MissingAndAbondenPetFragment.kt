@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
 import androidx.fragment.app.Fragment
 import com.snowhitejsk.tppetme.databinding.FragmentMissingandabondenpetBinding
 
@@ -23,10 +24,22 @@ class MissingAndAbondenPetFragment : Fragment() {
 
 
 
+
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        //이미지 태두리 감싸기
+        val partImg1: ImageView = binding.ivMissingcat1
+        val partImg2: ImageView = binding.ivMissingcat2
+        val partImg3: ImageView = binding.ivMissingdog1
+        val partImg4: ImageView = binding.ivMissingdog2
+        partImg1.clipToOutline = true
+        partImg2.clipToOutline = true
+        partImg3.clipToOutline = true
+        partImg4.clipToOutline = true
+
+
         binding.ivMissingdog1.setOnClickListener { clickAbondonmentDog() }
         binding.ivMissingcat1.setOnClickListener { clickAbondonmentCat() }
     }
