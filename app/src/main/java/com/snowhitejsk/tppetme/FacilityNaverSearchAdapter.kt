@@ -27,10 +27,12 @@ class FacilityNaverSearchAdapter constructor(var context: Context, var items:Mut
     }
 
     override fun onBindViewHolder(holder: VH, position: Int) {
+        //html 문자열의 태그문을 제거.
         var title: Spanned = HtmlCompat.fromHtml(items[position].title, HtmlCompat.FROM_HTML_MODE_COMPACT)
+        holder.binding.tvTitle.text =title
+
         holder.binding.tvLink.text= items[position].link
         holder.binding.tvAddress.text= items[position].address
-        holder.binding.tvTitle.text= items[position].title
         holder.binding.tvCategory.text= items[position].category
         //Glide.with(context).load(items[position].)
 
@@ -39,8 +41,6 @@ class FacilityNaverSearchAdapter constructor(var context: Context, var items:Mut
             context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(items[position].link)))
         }
         holder.binding.iv.setOnClickListener {
-
-
            context.startActivity(Intent(Intent.ACTION_VIEW,Uri.parse("geo:${items[position].mapy},${items[position].mapx}?z=15")))
 /////////////////////////////
         }
