@@ -8,16 +8,24 @@
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_outline_groups_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_outline_local_cafe_24.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/Lunch.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_iv_black.xml" value="0.108" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_login_tv.xml" value="0.113" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_searchbox.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_tv_blue.xml" value="0.108" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_tv_blue.xml.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/bg_tv_go.xml" value="0.113" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.108" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1515" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/launch.xml" value="0.244" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/launch2.xml" value="0.244" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable/menu_selector.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_abondonpets.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_email_login.xml" value="0.10740740740740741" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_searched_list.xml" value="0.2" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/alerdialog_facility.xml" value="0.36614583333333334" />
