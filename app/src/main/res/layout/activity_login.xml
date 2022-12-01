@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="40dp"
         android:padding="16dp"
         android:src="@drawable/launch2"/>
 
@@ -33,30 +33,30 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/tv_title"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
         android:background="@drawable/bg_tv_go"
         android:paddingLeft="16dp"
         android:paddingTop="8dp"
         android:paddingRight="16dp"
         android:paddingBottom="8dp"
         android:text="PetMe 을 둘러보세요. >"
-        android:textColor="@color/black"
-        android:layout_marginTop="30dp"/>
+        android:textColor="@color/black" />
 
     <!--  밑에서부터 화면배치  -->
     <TextView
         android:id="@+id/tv_signup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="회원가입"
-        android:textColor="@color/black"
-        android:gravity="center"
-        android:background="@drawable/bg_login_tv"
-        android:paddingTop="8dp"
-        android:paddingBottom="8dp"
+        android:layout_alignParentBottom="true"
         android:layout_marginLeft="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginBottom="40dp"
-        android:layout_alignParentBottom="true" />
+        android:background="@drawable/bg_login_tv"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:text="회원가입"
+        android:textColor="@color/black" />
 
     <LinearLayout
         android:id="@+id/layout_email"

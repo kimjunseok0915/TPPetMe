@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_baseline_360_24.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.124" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_baseline_map_24.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/drawable-v24/ic_outline_groups_24.xml" value="0.1" />
@@ -28,6 +29,7 @@
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_searched_list.xml" value="0.2" />
+        <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/activity_signup.xml" value="0.33" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/alerdialog_facility.xml" value="0.36614583333333334" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/alertdialog_abondonment.xml" value="0.17962962962962964" />
         <entry key="..\:/Android/Projects/TPPetMe/app/src/main/res/layout/fragment_Facilities.xml" value="0.13425925925925927" />
