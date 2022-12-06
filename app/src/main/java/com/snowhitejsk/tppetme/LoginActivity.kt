@@ -26,7 +26,7 @@ class LoginActivity : AppCompatActivity() {
         }
 
         //이메일 로그인
-        binding.layoutLoginBtn.setOnClickListener{
+        binding.layoutEmail.setOnClickListener{
             startActivity(Intent(this, EmailLoginActivity::class.java))
         }
 
