@@ -65,4 +65,7 @@ dependencies {
     //fireStore
     implementation('com.google.firebase:firebase-firestore-ktx')
 
+    //Kakao SDK library 로그인
+    implementation "com.kakao.sdk:v2-user:2.11.2" // 카카오 로그인
+
 }
